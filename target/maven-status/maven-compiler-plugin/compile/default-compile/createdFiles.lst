@@ -1,0 +1,6 @@
+struts\boot\server\endpoints\SampleController.class
+struts\boot\server\model\MessageStore.class
+struts\boot\server\config\ClientWebConfig.class
+struts\boot\server\config\MainWebAppInitializer.class
+struts\boot\server\actions\HelloWorldAction.class
+struts\boot\server\application\AuthServerApplication.class

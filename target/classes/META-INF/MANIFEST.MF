@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: struts.boot.server
+Implementation-Version: 1.0.0
+Built-By: Dhoke
+Implementation-Vendor-Id: struts.boot.server
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/struts.boot.server
+Created-By: Maven Integration for Eclipse
+
